@@ -3,7 +3,7 @@
 - 📝 I regularly write articles on [https://armoghan-blogs-2.netlify.app/](https://armoghan-blogs-2.netlify.app/)
 
 <p align="left"> <a href="https://twitter.com/armoghan12" target="blank"><img src="https://img.shields.io/twitter/follow/armoghan12?logo=twitter&style=for-the-badge" alt="armoghan12" /></a> </p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=armoghan-ul-mohmin&label=Profile%20views&color=0e75b6&style=flat" alt="armoghan-ul-mohmin" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=armoghan-ul-mohmin&label=Profile%20views&color=0e75b6&style=flat" alt="armoghan-ul-mohmin" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armoghan-ul-mohmin" alt="armoghan-ul-mohmin" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
