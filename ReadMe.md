@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armoghan-ul-Mohmin</h1>
 <h3 align="center">I am a Digital Forensic and Cyber Security Student.</h3>
-- 📝 I regularly write articles on [https://armoghan-blogs-2.netlify.app/](https://armoghan-blogs-2.netlify.app/)
+<h4> 📝 I regularly write articles on <a href="https://armoghan-blogs-2.netlify.app/">Armoghan Blogs</a> </h4>h4>
 
 <p align="left"> <a href="https://twitter.com/armoghan12" target="blank"><img src="https://img.shields.io/twitter/follow/armoghan12?logo=twitter&style=for-the-badge" alt="armoghan12" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armoghan-ul-mohmin&label=Profile%20views&color=0e75b6&style=flat" alt="armoghan-ul-mohmin" /></p>
