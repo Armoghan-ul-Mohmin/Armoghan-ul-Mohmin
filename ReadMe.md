@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Armoghan-ul-Mohmin</h1>
 <h3 align="center">I am a Digital Forensic and Cyber Security Student.</h3>
+- 📝 I regularly write articles on [https://armoghan-blogs-2.netlify.app/](https://armoghan-blogs-2.netlify.app/)
 
 <p align="left"> <a href="https://twitter.com/armoghan12" target="blank"><img src="https://img.shields.io/twitter/follow/armoghan12?logo=twitter&style=for-the-badge" alt="armoghan12" /></a> </p>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/188d029e-6ae8-46bb-a367-80435ffde451/deploy-status)](https://app.netlify.com/sites/armoghan-blogs/deploys)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=armoghan-ul-mohmin&label=Profile%20views&color=0e75b6&style=flat" alt="armoghan-ul-mohmin" /></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armoghan-ul-mohmin" alt="armoghan-ul-mohmin" /></a> </p>
-
-
-- 📝 I regularly write articles on [https://armoghan-blogs-2.netlify.app/](https://armoghan-blogs-2.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -25,4 +21,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armoghan-ul-mohmin&show_icons=true&locale=en" alt="armoghan-ul-mohmin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armoghan-ul-mohmin&" alt="armoghan-ul-mohmin" /></p>
